@@ -1,0 +1,4 @@
+<map id="computeDistance" name="computeDistance">
+<area shape="rect" id="node1" title="Brief: computes total distance of a route." alt="" coords="5,5,130,31"/>
+<area shape="rect" id="node2" href="$class_middle_earth.html#af558c23fd240638847105737faf755a3" title="Brief: gets distance between two cities." alt="" coords="178,5,348,31"/>
+</map>

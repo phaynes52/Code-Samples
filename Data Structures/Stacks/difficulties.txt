@@ -1,0 +1,7 @@
+/* Peter Haynes
+ * prh7yc
+ * Filename: difficulties.txt
+ * September 18th, 2019
+ */
+
+My primary difficulty was after writing all of my code I was receiving a linker error when I tried to compile. I wasn't entirely sure what this meant and tried many different ways to troubleshoot including running the debugger but couldn't decipher what my error was. Eventually, I went to office hours and a TA pointed out that I had told my stack.h file to include not only List.h but also List.cpp and then explained why I should not include List.cpp in my file. After fixing this error, my code compiled, however it was printing my input incorrectly (two variables at a time rather than one on each line). So, after reexamining my code I discovered that I had an additional print statement and removed it from the file. Lastly, when I tried to compile using *.cpp it gave me an error but I didn't know where it was occuring. After looking at my Lab03 folder, I discovered an extra .cpp file, and after deleting this file my code worked as expected. Overall, this lab went fairly smoothly.

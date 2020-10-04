@@ -1,0 +1,8 @@
+/*
+Peter Haynes
+prh7yc
+unix.questions.txt
+September 15th, 2019
+ */
+
+Is there a way to create files using the terminal shell? Like could I create a file unix.questions.txt and have it open in whateve program it finds to open .txt files in?

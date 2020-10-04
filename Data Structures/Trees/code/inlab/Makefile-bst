@@ -1,0 +1,30 @@
+#Peter Haynes 
+#prh7yc
+#October 13th, 2019
+#Tuesday 12:30
+CXX=clang++
+CXXFLAGS=-Wall -O2 -std=c++11
+DEBUG=-Wall -g
+
+OFILES = BinarySearchTree.o BinaryNode.o BSTPathTest.o
+
+bst: $(OFILES)
+	$(CXX) $(DEBUG) $(OFILES) bst
+	@echo "Binary Search Tree is Hot and Ready!"
+
+BSTPathTest.o: BSTPathTest.cpp BinarySearchTree.h BinaryNode.h
+	$(CXX) -c BSTPathTest.cpp
+
+BinaryNode.o: BinaryNode.cpp BinaryNode.h
+	$(CXX) -c BinaryNode.cpp
+
+
+BinarySearchTree.o: BinarySearchTree.cpp BinarySearchTree.h BinaryNode.h
+	$(CXX) -c BinarySearchTree.cpp
+
+
+.SUFFIXES: .o 
+	
+	
+clean:
+	-rm -f *.o *~ bst
