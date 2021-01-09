@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 49adbd097c42a844db927fbe604289ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4724164740125584215
+    second: Nyan Cat Sprite Sheet_0
+  - first:
+      213: 5635079175519401021
+    second: Nyan Cat Sprite Sheet_1
+  - first:
+      213: 3107349565328169379
+    second: Nyan Cat Sprite Sheet_2
+  - first:
+      213: -8656213548871714935
+    second: Nyan Cat Sprite Sheet_3
+  - first:
+      213: 1132683153435874549
+    second: Nyan Cat Sprite Sheet_4
+  - first:
+      213: 2671863736924926987
+    second: Nyan Cat Sprite Sheet_5
+  - first:
+      213: 2228163936199527479
+    second: Nyan Cat Sprite Sheet_6
+  - first:
+      213: -4422383761877993653
+    second: Nyan Cat Sprite Sheet_7
+  - first:
+      213: -965654502711731278
+    second: Nyan Cat Sprite Sheet_8
+  - first:
+      213: -8103161493657483663
+    second: Nyan Cat Sprite Sheet_9
+  - first:
+      213: -3868294403141808915
+    second: Nyan Cat Sprite Sheet_10
+  - first:
+      213: 8952819082979670763
+    second: Nyan Cat Sprite Sheet_11
+  - first:
+      213: 6579419773628419689
+    second: Nyan Cat Sprite Sheet_12
+  - first:
+      213: -1156746166173478381
+    second: Nyan Cat Sprite Sheet_13
+  - first:
+      213: -6725248649768565676
+    second: Nyan Cat Sprite Sheet_14
+  - first:
+      213: -5791603159018277438
+    second: Nyan Cat Sprite Sheet_15
+  - first:
+      213: -7457191422148471227
+    second: Nyan Cat Sprite Sheet_16
+  - first:
+      213: -3910709127832767811
+    second: Nyan Cat Sprite Sheet_17
+  - first:
+      213: -5180563285047471018
+    second: Nyan Cat Sprite Sheet_18
+  - first:
+      213: -2128851362122389973
+    second: Nyan Cat Sprite Sheet_19
+  - first:
+      213: -8907111973997118999
+    second: Nyan Cat Sprite Sheet_20
+  - first:
+      213: 3717562333936150445
+    second: Nyan Cat Sprite Sheet_21
+  - first:
+      213: -5606039499329071875
+    second: Nyan Cat Sprite Sheet_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nyan Cat Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 216
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b6c9b2dca9f8140800000000000000
+      internalID: 4724164740125584215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyan Cat Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 217
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f80a77a2d33e40800000000000000
+      internalID: 5635079175519401021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyan Cat Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 217
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9995a57f58f1b20800000000000000
+      internalID: 3107349565328169379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyan Cat Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 184
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f39fc3a3fed780800000000000000
+      internalID: -8656213548871714935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyan Cat Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 184
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45d9ba35918bf00800000000000000
+      internalID: 1132683153435874549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyan Cat Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 184
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0478af99ed541520800000000000000
+      internalID: 2671863736924926987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyan Cat Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 153
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477ecc366980a2c0800000000000000
+      internalID: -4422383761877993653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyan Cat Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 153
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb5c16985e4992f0800000000000000
+      internalID: -965654502711731278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyan Cat Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 153
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1760ceccd89cb8f80800000000000000
+      internalID: -8103161493657483663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

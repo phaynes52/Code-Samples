@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 23c70ffdde25449ec87aaf9ca299711d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3458720675515822674
+    second: platform_crumble_0
+  - first:
+      213: 3604989486804202446
+    second: platform_crumble_1
+  - first:
+      213: -702537029954238909
+    second: platform_crumble_2
+  - first:
+      213: 8436268087002955249
+    second: platform_crumble_3
+  - first:
+      213: -7612140109497206671
+    second: platform_crumble_4
+  - first:
+      213: -6908473211522253236
+    second: platform_crumble_5
+  - first:
+      213: 4378830043627529930
+    second: platform_crumble_6
+  - first:
+      213: -3253941331194244405
+    second: platform_crumble_7
+  - first:
+      213: 4765848305952762495
+    second: platform_crumble_8
+  - first:
+      213: 1109957839921496205
+    second: platform_crumble_9
+  - first:
+      213: 2418448069047366521
+    second: platform_crumble_10
+  - first:
+      213: -3305910686057890831
+    second: platform_crumble_11
+  - first:
+      213: -43234050971055531
+    second: platform_crumble_12
+  - first:
+      213: -3260259210869799601
+    second: platform_crumble_13
+  - first:
+      213: 3165465035473749839
+    second: platform_crumble_14
+  - first:
+      213: 186633017692519007
+    second: platform_crumble_15
+  - first:
+      213: -190760585059055110
+    second: platform_crumble_16
+  - first:
+      213: -3202129610541492172
+    second: platform_crumble_17
+  - first:
+      213: 5766664078548523280
+    second: platform_crumble_18
+  - first:
+      213: 4321605920689432631
+    second: platform_crumble_19
+  - first:
+      213: -4510276165351984940
+    second: platform_crumble_20
+  - first:
+      213: 6850451661724837479
+    second: platform_crumble_21
+  - first:
+      213: 1801051115871708295
+    second: platform_crumble_22
+  - first:
+      213: 1458533192816061795
+    second: platform_crumble_23
+  - first:
+      213: 243280935825408077
+    second: platform_crumble_24
+  - first:
+      213: 8801755223313720571
+    second: platform_crumble_25
+  - first:
+      213: -8618414623682125580
+    second: platform_crumble_26
+  - first:
+      213: -4323125119789308334
+    second: platform_crumble_27
+  - first:
+      213: -3491016672007796000
+    second: platform_crumble_28
+  - first:
+      213: -7445801187795401480
+    second: platform_crumble_29
+  - first:
+      213: -4678538624354713106
+    second: platform_crumble_30
+  - first:
+      213: 1482877702144500224
+    second: platform_crumble_31
+  - first:
+      213: -3955116125271936053
+    second: platform_crumble_32
+  - first:
+      213: -6224728655055965225
+    second: platform_crumble_33
+  - first:
+      213: 4961796120597351912
+    second: platform_crumble_34
+  - first:
+      213: -2333383041092627234
+    second: platform_crumble_35
+  - first:
+      213: 56247318882404884
+    second: platform_crumble_0
+  - first:
+      213: 812887720207241358
+    second: platform_crumble_1
+  - first:
+      213: 972884336120192436
+    second: platform_crumble_2
+  - first:
+      213: -53732721108345010
+    second: platform_crumble_3
+  - first:
+      213: 6186288438142002517
+    second: platform_crumble_4
+  - first:
+      213: -5573946469141584198
+    second: platform_crumble_5
+  - first:
+      213: 878791993364248715
+    second: platform_crumble_6
+  - first:
+      213: 6090631839208817561
+    second: platform_crumble_7
+  - first:
+      213: 8304630915649345111
+    second: platform_crumble_8
+  - first:
+      213: 3015302532538807411
+    second: platform_crumble_9
+  - first:
+      213: 6378465611024352329
+    second: platform_crumble_10
+  - first:
+      213: 2221882191286821867
+    second: platform_crumble_11
+  - first:
+      213: -5122556105917668143
+    second: platform_crumble_12
+  - first:
+      213: 9135509225404498540
+    second: platform_crumble_13
+  - first:
+      213: 3148425526166924259
+    second: platform_crumble_14
+  - first:
+      213: 8229416757030120632
+    second: platform_crumble_15
+  - first:
+      213: 1070066997626272469
+    second: platform_crumble_16
+  - first:
+      213: -4641732971532228000
+    second: platform_crumble_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platform_crumble_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41acd8573a4d7c000800000000000000
+      internalID: 56247318882404884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 920
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80da3d1315f74b00800000000000000
+      internalID: 812887720207241358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 920
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd5cfd2621608d00800000000000000
+      internalID: 972884336120192436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 920
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f9585ff5a114ff0800000000000000
+      internalID: -53732721108345010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5556f81ee8c1ad550800000000000000
+      internalID: 6186288438142002517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 690
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6e5c5e73d55a2b0800000000000000
+      internalID: -5573946469141584198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 690
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88fee379a8123c00800000000000000
+      internalID: 878791993364248715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 690
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993c9b16365468450800000000000000
+      internalID: 6090631839208817561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756910661d9ff3370800000000000000
+      internalID: 8304630915649345111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 460
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374bf467da188d920800000000000000
+      internalID: 3015302532538807411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 460
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c62dbdacd48850800000000000000
+      internalID: 6378465611024352329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 460
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3ea68b416b5de10800000000000000
+      internalID: 2221882191286821867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4e4c4bc5609e8b0800000000000000
+      internalID: -5122556105917668143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 230
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c620a8e0d39d7ce70800000000000000
+      internalID: 9135509225404498540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 230
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eba3f0c55471bb20800000000000000
+      internalID: 3148425526166924259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 230
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6d6f60f2c43270800000000000000
+      internalID: 8229416757030120632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf16fc344a9de00800000000000000
+      internalID: 1070066997626272469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6a919470459fb0800000000000000
+      internalID: -4641732971532228000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_crumble_18
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 10
+        width: 247
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019d3e42d6e470050800000000000000
+      internalID: 5766664078548523280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
